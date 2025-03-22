@@ -2,6 +2,8 @@
 
 Uma aplicação Node.js que permite baixar vídeos do YouTube em formato MP3 (áudio) ou MP4 (vídeo) com diferentes opções de qualidade.
 ![image](https://github.com/user-attachments/assets/966a9d11-97a6-4032-a28d-2d5ad5472728)
+![image](https://github.com/user-attachments/assets/b0e7a783-10d1-4844-a9f9-88e24fde5289)
+
 
 
 ## Descrição
